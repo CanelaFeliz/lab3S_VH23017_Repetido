@@ -1,0 +1,10 @@
+C:\Users\Galleta\Desktop\lab3S_VH23017\lab3S_VH23017\bin\Debug\lab3S_VH23017.exe.config
+C:\Users\Galleta\Desktop\lab3S_VH23017\lab3S_VH23017\bin\Debug\lab3S_VH23017.exe
+C:\Users\Galleta\Desktop\lab3S_VH23017\lab3S_VH23017\bin\Debug\lab3S_VH23017.pdb
+C:\Users\Galleta\Desktop\lab3S_VH23017\lab3S_VH23017\obj\Debug\lab3S_VH23017.csproj.AssemblyReference.cache
+C:\Users\Galleta\Desktop\lab3S_VH23017\lab3S_VH23017\obj\Debug\lab3S_VH23017.Form1.resources
+C:\Users\Galleta\Desktop\lab3S_VH23017\lab3S_VH23017\obj\Debug\lab3S_VH23017.Properties.Resources.resources
+C:\Users\Galleta\Desktop\lab3S_VH23017\lab3S_VH23017\obj\Debug\lab3S_VH23017.csproj.GenerateResource.cache
+C:\Users\Galleta\Desktop\lab3S_VH23017\lab3S_VH23017\obj\Debug\lab3S_VH23017.csproj.CoreCompileInputs.cache
+C:\Users\Galleta\Desktop\lab3S_VH23017\lab3S_VH23017\obj\Debug\lab3S_VH23017.exe
+C:\Users\Galleta\Desktop\lab3S_VH23017\lab3S_VH23017\obj\Debug\lab3S_VH23017.pdb
